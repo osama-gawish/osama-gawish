@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Osama Gaweesh
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data scince using python
-- 💞️ I’m looking to collaborate on internship
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Data Science using python
+- 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me https://www.linkedin.com/in/osama-omar-gaweesh-0544a61a7/
 
 <!---
